@@ -41,3 +41,8 @@ git status git add README.md
 git commit git log git push
 
 # odswiez w przeglarce swoje repozytorium nauka_gita
+
+# Przeglądanie historii z pomocą graficznych programów
+
+gitk
+gitg
