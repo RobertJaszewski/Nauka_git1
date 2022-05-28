@@ -43,6 +43,19 @@ git commit git log git push
 # odswiez w przeglarce swoje repozytorium nauka_gita
 
 # Przeglądanie historii z pomocą graficznych programów
-
 gitk
 gitg
+
+# Tworzenie repozytorium w githubie używając interfejsu webowego 
+
+# tak jak podpowiada wam github.com
+git remote add origin https://.../learning_git.git
+
+# **przeczytaj**
+# na co git "narzeka"
+# po wykonaniu następującej
+git push
+
+# podazajac za wskazowka
+# pelna komenda:
+git push --set-upstream origin master
